@@ -41,3 +41,8 @@ The goal is to realize yourself as a successful web developer and I am ready to 
     return r.preventDefault();
     }
  ```
+ 6. **Education**           
+    * Belarusian State University of Informatics and Radioelectronics (web design)  
+    * JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)
+7. **Languages:**  
+My English level is between A2 (up to intermediate level) and B1 (intermediate level). I attend courses, listen to training courses in English, read technical documentation and sometimes communicate.
